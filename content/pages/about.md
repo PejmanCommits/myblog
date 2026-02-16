@@ -1,5 +1,7 @@
 ---
 title: "About"
+type: "page"
+layout: "single"
 ---
 
 I’m a Platform and DevOps Engineer with a strong interest in building reliable systems
