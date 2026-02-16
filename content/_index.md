@@ -27,7 +27,7 @@ My background spans **Platform Engineering, DevOps, and MLOps**, including opera
 - Virtualized and private cloud environments (VMware vSphere, OpenStack)
 
 **MLOps Platforms**
-- Kubeflow (Training Operator, Katib for hyperparameter tuning)
+- [Kubeflow (Training Operator, Katib for hyperparameter tuning)] (https://dev.to/prezaei/integrating-mlflow-with-kubeflow-revised-edition-3mf)
 - MLflow for experiment tracking, model registry, and lifecycle automation
 - Model training, validation, and inference workflows on Kubernetes
 
@@ -37,7 +37,7 @@ My background spans **Platform Engineering, DevOps, and MLOps**, including opera
 - Service mesh observability using Istio and Kiali
 
 **Security, Networking & Storage**
-- PostgreSQL High Availability (Patroni, HAProxy, etcd)
+- [PostgreSQL High Availability (Patroni, HAProxy, etcd)](https://dev.to/prezaei/high-availability-postgresql-clustering-with-patroni-5043)
 - MinIO (S3-compatible object storage)
 - Vault, FreeIPA, Keycloak for identity and secrets
 - Traefik, NGINX, HAProxy, Cilium (eBPF-based networking)
