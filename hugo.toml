@@ -1,0 +1,8 @@
+baseURL = "https://prezaei.de/"
+title = "Pejman Rezaei"
+theme = "PaperMod"
+
+[params]
+  author = "Pejman Rezaei"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
