@@ -27,7 +27,7 @@ My background spans **Platform Engineering, DevOps, and MLOps**, including opera
 - Virtualized and private cloud environments (VMware vSphere, OpenStack)
 
 **MLOps Platforms**
-- [Kubeflow (Training Operator, Katib for hyperparameter tuning)] (https://dev.to/prezaei/integrating-mlflow-with-kubeflow-revised-edition-3mf)
+- [Kubeflow (Training Operator, Katib for hyperparameter tuning)](https://dev.to/prezaei/integrating-mlflow-with-kubeflow-revised-edition-3mf)
 - MLflow for experiment tracking, model registry, and lifecycle automation
 - Model training, validation, and inference workflows on Kubernetes
 
