@@ -6,7 +6,7 @@ theme = "PaperMod"
   author = "Pejman Rezaei"
   ShowCodeCopyButtons = true
   ShowReadingTime = false
-  ShowPostNavLinks = false
+  ShowPostNavLinks = true
 
 [params.list]
   showSummary = true

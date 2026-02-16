@@ -1,5 +1,7 @@
 ---
 title: "Pejman Rezaei"
+type: "page"
+layout: "single"
 ---
 
 MLOps & DevOps Engineer
